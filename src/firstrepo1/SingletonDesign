@@ -1,0 +1,12 @@
+package firstrepo1;
+
+class A{
+static A a1= null;
+private A(){
+
+}
+
+public static A getobject(){
+
+}
+}
