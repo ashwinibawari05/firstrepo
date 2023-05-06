@@ -1,0 +1,6 @@
+What is basic difference between IPv4 and IPv6? Why developers moves to IPv6 later ?
+Ans-  1.IPv4 is 32 bit binary system & IPv6 is 64 bit Hexadecimal address. Hence IPv6 provides a large address space and it contains a simple header as compared to IPv4.
+      2. IPv4 is a numeric addressing method whereas IPv6 is an alphanumeric addressing method.
+      3. IPv4 binary bits are sepearted by dots where as IPv6 binary bits are separated by a colon.
+       Apart from above 3 point, IPv6 is faster & more secure than IPv4 hence developers prefers IPv6.
+      
