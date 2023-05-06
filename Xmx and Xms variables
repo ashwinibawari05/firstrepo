@@ -1,0 +1,3 @@
+Xmx and Xms variables?
+Ans-Xmx and Xms are JVM, Java virtual machine command-line options/flags that are used by developers to manipulate the heap size used by JVM. 
+This allows them to optimize the speed and memory of differnt java applications
